@@ -12,6 +12,6 @@
     "url": "https://github.com/ecmendenhall/serverless-instant-bot/issues"
   },
   "dependencies": {
-    "instant-bot": "^0.0.1"
+    "instant-bot": "^0.0.1",
   }
 }
